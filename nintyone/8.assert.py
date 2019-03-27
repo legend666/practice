@@ -7,7 +7,7 @@
 # 语法：assert expression1 [","expression2]
 x = 1
 y = 2
-assert x == y, "not equals"
+assert x == y, 'not equals'
 # 相当于：
 if __debug__ and not x == y:
     raise AssertionError("not equals")

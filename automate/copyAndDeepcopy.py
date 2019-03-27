@@ -4,6 +4,9 @@ import copy
 
 spam = ['a', 'b', 'c', 'd']
 cheese = copy.copy(spam)
+copy_spam = copy.deepcopy(spam)
+print(spam)
+type
 cheese[1] = 42
 print(spam)  # ['a', 'b', 'c', 'd']
 print(cheese)  # ['a', 42, 'c', 'd']
@@ -14,4 +17,3 @@ print(id(cheese))
 # 如果要复制的列表中包含了列表，就使用copy.deepcopy函数来代替
 # deepcopy函数将同时复制他们内部的列表
 var = copy.deepcopy(cheese)
-print(var)
