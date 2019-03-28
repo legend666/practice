@@ -9,4 +9,3 @@ def multipliers():
 for m in multipliers():
     print(m)
 
-
