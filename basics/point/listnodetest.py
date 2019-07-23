@@ -4,7 +4,7 @@
 # @Author  : legend
 
 
-from basics import ListNode
+from basics.point import ListNode
 
 
 class Solution(object):
