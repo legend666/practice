@@ -16,3 +16,7 @@ with open("./data/ratings.list", errors='ignore') as myfile:
     head = [next(myfile) for x in range(38)]
 print(''.join(head[28:38]))
 # skipping the first 28 lines as they are descriptive headers
+
+with open("./data/genres.list", errors='ignore') as myfile:
+    head = [next(myfile) for x in range(392)]
+print(''.join(head[382:392]))
