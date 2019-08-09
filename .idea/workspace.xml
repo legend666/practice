@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="660616a8-0d3b-4f65-91f2-e5b5d01e4b56" name="Default Changelist" comment="20190517">
-      <change afterPath="$PROJECT_DIR$/basics/point/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fun/__init__.py" afterDir="false" />
+    <list default="true" id="660616a8-0d3b-4f65-91f2-e5b5d01e4b56" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/basics/interview" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices/24.PythonGC(GarbageCollection).py" beforeDir="false" afterPath="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices/24.PythonGC(GarbageCollection).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeekTime/leedcodeSolutions/19.remove Nth node from end of list.py" beforeDir="false" afterPath="$PROJECT_DIR$/GeekTime/leedcodeSolutions/19.remove Nth node from end of list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/ListNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/point/ListNode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/Xml解析.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/point/Xml解析.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/abstract_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/point/abstract_factory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/class中的object.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/point/class中的object.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/if__not.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/point/if__not.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/listnodetest.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/point/listnodetest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/nice_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/point/nice_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/nintyone/8.assert.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/Ninty-oneSuggest/8.assert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/nintyone/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/Ninty-oneSuggest/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/python _、__、__xx__之间的差别.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/point/python _、__、__xx__之间的差别.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/作用域.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/point/作用域.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/算术运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/point/算术运算符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github_pythonInterview/4.打乱一个排好序的list对象alist？.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/github_pythonInterview/4.打乱一个排好序的list对象alist？.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github_pythonInterview/6.列表推导式、字典推导式、集合推导式.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/github_pythonInterview/6.列表推导式、字典推导式、集合推导式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github_pythonInterview/8.将字符串,处理成字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/github_pythonInterview/8.将字符串,处理成字典.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github_pythonInterview/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/github_pythonInterview/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/extractingTheInformation.py" beforeDir="false" afterPath="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/extractingTheInformation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,29 +13,48 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/practice$8_assert.coverage" NAME="8.assert Coverage Results" MODIFIED="1553501338089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nintyone" />
-    <SUITE FILE_PATH="coverage/leedcode$66.coverage" NAME="66 Coverage Results" MODIFIED="1544686993964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Solutions" />
+    <SUITE FILE_PATH="coverage/practice$UniversitiesMysql.coverage" NAME="UniversitiesMysql Coverage Results" MODIFIED="1564388550883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fun/OneHundredUniversities" />
     <SUITE FILE_PATH="coverage/leedcode$21.coverage" NAME="21 Coverage Results" MODIFIED="1542339348548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Solutions" />
     <SUITE FILE_PATH="coverage/practice$listAndTuple.coverage" NAME="listAndTuple Coverage Results" MODIFIED="1558083498563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices" />
-    <SUITE FILE_PATH="coverage/practice$8__.coverage" NAME="8.将字符串,处理成字典 Coverage Results" MODIFIED="1557298454777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_python" />
     <SUITE FILE_PATH="coverage/leedcode$Xml.coverage" NAME="Xml解析 Coverage Results" MODIFIED="1543307672464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
-    <SUITE FILE_PATH="coverage/practice$DictAndSet.coverage" NAME="DictAndSet Coverage Results" MODIFIED="1558514705521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices" />
-    <SUITE FILE_PATH="coverage/practice$2_1DataProfilingCleaning.coverage" NAME="2.1DataProfilingCleaning Coverage Results" MODIFIED="1563867812923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion" />
-    <SUITE FILE_PATH="coverage/practice$24_PythonGC_GarbageCollection_.coverage" NAME="24.PythonGC(GarbageCollection) Coverage Results" MODIFIED="1563761566252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices" />
+    <SUITE FILE_PATH="coverage/practice$2_1DataProfilingCleaning.coverage" NAME="2.1DataProfilingCleaning Coverage Results" MODIFIED="1563871701774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion" />
+    <SUITE FILE_PATH="coverage/practice$3_1DataProfiling__1_.coverage" NAME="3.1DataProfiling (1) Coverage Results" MODIFIED="1565143485190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla" />
     <SUITE FILE_PATH="coverage/leedcode$listnodetest.coverage" NAME="listnodetest Coverage Results" MODIFIED="1541407442592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/practice$copyAndDeepcopy.coverage" NAME="copyAndDeepcopy Coverage Results" MODIFIED="1553585282175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automate" />
+    <SUITE FILE_PATH="coverage/practice$.coverage" NAME="算术运算符 Coverage Results" MODIFIED="1557906455283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/practice$debugging.coverage" NAME="debugging Coverage Results" MODIFIED="1553502627130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/liaoxuefeng" />
+    <SUITE FILE_PATH="coverage/practice$list_.coverage" NAME="list_作用域 Coverage Results" MODIFIED="1553588549979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/practice$LinkedList.coverage" NAME="LinkedList Coverage Results" MODIFIED="1554088634413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leedcodeSolutions" />
+    <SUITE FILE_PATH="coverage/practice$8_assert.coverage" NAME="8.assert Coverage Results" MODIFIED="1553501338089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nintyone" />
+    <SUITE FILE_PATH="coverage/leedcode$66.coverage" NAME="66 Coverage Results" MODIFIED="1544686993964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Solutions" />
+    <SUITE FILE_PATH="coverage/practice$33_QuantitativeTrading.coverage" NAME="33.QuantitativeTrading Coverage Results" MODIFIED="1564037220677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices" />
+    <SUITE FILE_PATH="coverage/practice$8__.coverage" NAME="8.将字符串,处理成字典 Coverage Results" MODIFIED="1557298454777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_python" />
+    <SUITE FILE_PATH="coverage/practice$DictAndSet.coverage" NAME="DictAndSet Coverage Results" MODIFIED="1558514705521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices" />
+    <SUITE FILE_PATH="coverage/practice$24_PythonGC_GarbageCollection_.coverage" NAME="24.PythonGC(GarbageCollection) Coverage Results" MODIFIED="1563761566252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices" />
     <SUITE FILE_PATH="coverage/practice$4_listalist.coverage" NAME="4.打乱一个排好序的list对象alist？ Coverage Results" MODIFIED="1557284060921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview_python" />
     <SUITE FILE_PATH="coverage/leedcode$14.coverage" NAME="14 Coverage Results" MODIFIED="1540520529782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Solutions" />
     <SUITE FILE_PATH="coverage/leedcode$ListNode.coverage" NAME="ListNode Coverage Results" MODIFIED="1541403680192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
     <SUITE FILE_PATH="coverage/practice$15_ObjectCompareAndCopy.coverage" NAME="15.ObjectCompareAndCopy Coverage Results" MODIFIED="1560417194090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices" />
     <SUITE FILE_PATH="coverage/leedcode$20.coverage" NAME="20 Coverage Results" MODIFIED="1540801586994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Solutions" />
-    <SUITE FILE_PATH="coverage/practice$copyAndDeepcopy.coverage" NAME="copyAndDeepcopy Coverage Results" MODIFIED="1553585282175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/automate" />
-    <SUITE FILE_PATH="coverage/practice$.coverage" NAME="算术运算符 Coverage Results" MODIFIED="1557906455283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/practice$isinstance.coverage" NAME="isinstance Coverage Results" MODIFIED="1564126940144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics/point" />
     <SUITE FILE_PATH="coverage/practice$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1553501227190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/liaoxuefeng" />
-    <SUITE FILE_PATH="coverage/practice$debugging.coverage" NAME="debugging Coverage Results" MODIFIED="1553502627130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/liaoxuefeng" />
     <SUITE FILE_PATH="coverage/leedcode$13.coverage" NAME="13 Coverage Results" MODIFIED="1540280306874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Solutions" />
     <SUITE FILE_PATH="coverage/leedcode$classobject.coverage" NAME="class中的object Coverage Results" MODIFIED="1540779034242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
-    <SUITE FILE_PATH="coverage/practice$list_.coverage" NAME="list_作用域 Coverage Results" MODIFIED="1553588549979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
-    <SUITE FILE_PATH="coverage/practice$LinkedList.coverage" NAME="LinkedList Coverage Results" MODIFIED="1554088634413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leedcodeSolutions" />
+    <SUITE FILE_PATH="coverage/practice$3_1DataProfiling.coverage" NAME="3.1DataProfiling Coverage Results" MODIFIED="1564456837702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fun/5000movieDataset" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1212959798">
@@ -125,14 +126,15 @@
     <session id="690612119">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.32" value="4" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.37" value="1" />
@@ -144,60 +146,93 @@
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.70" value="1" />
-          <entry key="project.opened" value="23" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ListNode" value="1" />
-          <entry key="csv" value="3" />
+          <entry key="UniversitiesMysql" value="1" />
+          <entry key="csv" value="4" />
           <entry key="gz" value="1" />
-          <entry key="ipynb" value="1" />
-          <entry key="list" value="3" />
-          <entry key="pstat" value="1" />
-          <entry key="py" value="60" />
+          <entry key="interview" value="1" />
+          <entry key="ipynb" value="10" />
+          <entry key="list" value="8" />
+          <entry key="pstat" value="3" />
+          <entry key="py" value="92" />
           <entry key="打乱一个排好序的list对象alist？" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="1" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="62" />
+          <entry key="IPNB" value="10" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Profiler Session" value="3" />
+          <entry key="Python" value="95" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="34" />
-          <entry key="py" value="7577" />
-          <entry key="txt" value="64" />
+          <entry key="Python Console" value="16" />
+          <entry key="dummy" value="48" />
+          <entry key="ipynb" value="1" />
+          <entry key="py" value="11228" />
+          <entry key="txt" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="98" />
-          <entry key="Python" value="7577" />
+          <entry key="IPNB" value="1" />
+          <entry key="PLAIN_TEXT" value="123" />
+          <entry key="Python" value="11244" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/2.1DataProfilingCleaning.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/extractingTheInformation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+            <state relative-caret-position="215">
+              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+              <folding>
+                <element signature="e#95#104#0" expanded="true" />
+                <marker date="1565163191339" expanded="true" signature="145:146" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basics/liaoxuefeng/文件读写.py">
+        <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/3.1DataProfiling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="65">
+              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="54" />
+              <folding>
+                <element signature="e#96#115#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/nomalizingTheText.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <marker date="1565168420246" expanded="true" signature="209:214" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basics/interview">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -218,6 +253,13 @@
       <find>dict</find>
       <find>deep</find>
       <find>movie_metadata</find>
+      <find>382:</find>
+      <find>from</find>
+      <find>legend</find>
+      <find>movie</find>
+      <find>movie_title</find>
+      <find>title_</find>
+      <find>矩阵</find>
     </findStrings>
   </component>
   <component name="Git.Rebase.Settings">
@@ -233,19 +275,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Solutions/13.py" />
-        <option value="$PROJECT_DIR$/Solutions/14.py" />
-        <option value="$PROJECT_DIR$/basics/class中的object.py" />
-        <option value="$PROJECT_DIR$/basics/if__not.py" />
-        <option value="$PROJECT_DIR$/Solutions/20.py" />
-        <option value="$PROJECT_DIR$/basics/listnodetest.py" />
-        <option value="$PROJECT_DIR$/Solutions/21.py" />
-        <option value="$PROJECT_DIR$/basics/nice_function.py" />
-        <option value="$PROJECT_DIR$/basics/Xml解析.py" />
-        <option value="$PROJECT_DIR$/Solutions/66.py" />
-        <option value="$PROJECT_DIR$/Solutions/19.remove Nth node from end of list.py" />
-        <option value="$PROJECT_DIR$/basics/ListNode.py" />
-        <option value="$PROJECT_DIR$/sql/联合主键和复合主键.py" />
         <option value="$PROJECT_DIR$/basics/DynamicProgarmming(dp).py" />
         <option value="$PROJECT_DIR$/liaoxuefeng/文件读写.py" />
         <option value="$PROJECT_DIR$/liaoxuefeng/dictionary.py" />
@@ -275,6 +304,28 @@
         <option value="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices/24.PythonGC(GarbageCollection).py" />
         <option value="$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/DownloadDataset.py" />
         <option value="$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/2.1DataProfilingCleaning.py" />
+        <option value="$PROJECT_DIR$/HowMuchCanYouLearn.py" />
+        <option value="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices/33.QuantitativeTrading.ipynb" />
+        <option value="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices/33.QuantitativeTrading.py" />
+        <option value="$PROJECT_DIR$/basics/point/isinstance.py" />
+        <option value="$PROJECT_DIR$/fun/OneHundredUniversities/UniversitiesMysql.py" />
+        <option value="$PROJECT_DIR$/fun/5000movieDataset/2.1extractingTheInformation.py" />
+        <option value="$PROJECT_DIR$/fun/5000movieDataset/3.1DataProfiling.py" />
+        <option value="$PROJECT_DIR$/basics/liaoxuefeng/dictionary.py" />
+        <option value="$PROJECT_DIR$/fun/MoviesDataSet/DataProfiling.py" />
+        <option value="$PROJECT_DIR$/fun/MoviesDataSet/3.1DataProfiling.py" />
+        <option value="$PROJECT_DIR$/basics/point/listnodetest.py" />
+        <option value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/555.py" />
+        <option value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/Bgad.py" />
+        <option value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/asdf.py" />
+        <option value="$PROJECT_DIR$/basics/numpy/Untitled.ipynb" />
+        <option value="$PROJECT_DIR$/basics/numpy/shape.ipynb" />
+        <option value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/2.0DataProfilingCleaning.py" />
+        <option value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/3.1DataProfiling.py" />
+        <option value="$PROJECT_DIR$/basics/point/正则表达.py" />
+        <option value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/extractingTheInformation.py" />
+        <option value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/nomalizingTheText.py" />
+        <option value="$PROJECT_DIR$/basics/interview" />
       </list>
     </option>
   </component>
@@ -298,7 +349,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="practice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="practice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="fun" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="practice" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="fun" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="5000movieDataset" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -311,38 +383,6 @@
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="basics" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="basics" type="462c0819:PsiDirectoryNode" />
-              <item name="liaoxuefeng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="fun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="fun" type="462c0819:PsiDirectoryNode" />
-              <item name="5000movieDataset" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="fun" type="462c0819:PsiDirectoryNode" />
-              <item name="5000movieDataset" type="462c0819:PsiDirectoryNode" />
-              <item name="DataAcquistion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="fun" type="462c0819:PsiDirectoryNode" />
-              <item name="5000movieDataset" type="462c0819:PsiDirectoryNode" />
-              <item name="DataAcquistion" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -351,17 +391,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/DataMatchingProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\legend_personal\practice\fun\MoviesDataSetFrombiggorilla" />
+      <recent name="D:\legend_personal\practice\fun\MoviesDataSet" />
+      <recent name="D:\legend_personal\practice\fun\5000movieDataset" />
       <recent name="D:\legend_personal\practice\fun" />
       <recent name="D:\legend_personal\practice\basics\point" />
-      <recent name="D:\legend_personal\practice\basics" />
-      <recent name="D:\legend_personal\practice\GeekTime" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\legend_personal\practice" />
     </key>
   </component>
@@ -377,8 +420,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2.1DataProfilingCleaning">
-    <configuration name="15.ObjectCompareAndCopy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3.1DataProfiling (1)">
+    <configuration name="33.QuantitativeTrading" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -391,7 +434,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices/15.ObjectCompareAndCopy.py" />
+      <option name="SCRIPT_NAME" value="D:\legend_personal\practice\GeekTime\PythonCoreTechnologiesAndPractices\33.QuantitativeTrading.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -400,7 +443,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="24.PythonGC(GarbageCollection)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3.1DataProfiling (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -408,12 +451,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices/24.PythonGC(GarbageCollection).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/3.1DataProfiling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -422,7 +465,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.1DataProfilingCleaning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3.1DataProfiling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -430,12 +473,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fun/5000movieDataset" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/2.1DataProfilingCleaning.py" />
+      <option name="SCRIPT_NAME" value="D:\legend_personal\practice\fun\MoviesDataSetFrombiggorilla\3.1DataProfiling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -444,7 +487,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DictAndSet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="UniversitiesMysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -452,12 +495,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fun/OneHundredUniversities" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\legend_personal\practice\GeekTime\PythonCoreTechnologiesAndPractices\4.DictAndSet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fun/OneHundredUniversities/UniversitiesMysql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -466,7 +509,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="递归函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -474,21 +517,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/liaoxuefeng" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liaoxuefeng/递归函数.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="复杂度分析（上）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="isinstance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -496,34 +539,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeektimeAnddataStructures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics/point" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GeektimeAnddataStructures/复杂度分析（上）.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="listAndTuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\legend_personal\practice\GeekTime\PythonCoreTechnologiesAndPractices\3.listAndTuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/point/isinstance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -533,19 +554,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.listAndTuple" />
-      <item itemvalue="Python.DictAndSet" />
-      <item itemvalue="Python.15.ObjectCompareAndCopy" />
-      <item itemvalue="Python.24.PythonGC(GarbageCollection)" />
-      <item itemvalue="Python.2.1DataProfilingCleaning" />
+      <item itemvalue="Python.33.QuantitativeTrading" />
+      <item itemvalue="Python.UniversitiesMysql" />
+      <item itemvalue="Python.isinstance" />
+      <item itemvalue="Python.3.1DataProfiling" />
+      <item itemvalue="Python.3.1DataProfiling (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.1DataProfilingCleaning" />
-        <item itemvalue="Python.24.PythonGC(GarbageCollection)" />
-        <item itemvalue="Python.15.ObjectCompareAndCopy" />
-        <item itemvalue="Python.DictAndSet" />
-        <item itemvalue="Python.listAndTuple" />
+        <item itemvalue="Python.3.1DataProfiling (1)" />
+        <item itemvalue="Python.3.1DataProfiling" />
+        <item itemvalue="Python.UniversitiesMysql" />
+        <item itemvalue="Python.isinstance" />
+        <item itemvalue="Python.33.QuantitativeTrading" />
       </list>
     </recent_temporary>
   </component>
@@ -630,7 +651,84 @@
       <option name="project" value="LOCAL" />
       <updated>1563441065940</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="20190723">
+      <created>1563868236597</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1563868236597</updated>
+    </task>
+    <task id="LOCAL-00012" summary="20190723">
+      <created>1563868819483</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1563868819483</updated>
+    </task>
+    <task id="LOCAL-00013" summary="20190723">
+      <created>1564045504222</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1564045504238</updated>
+    </task>
+    <task id="LOCAL-00014" summary="20190726">
+      <created>1564131616525</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1564131616525</updated>
+    </task>
+    <task id="LOCAL-00015" summary="20190723">
+      <created>1564390787984</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1564390787984</updated>
+    </task>
+    <task id="LOCAL-00016" summary="20190730">
+      <created>1564471905155</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1564471905155</updated>
+    </task>
+    <task id="LOCAL-00017" summary="20190730">
+      <created>1564475808627</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1564475808627</updated>
+    </task>
+    <task id="LOCAL-00018" summary="20190730">
+      <created>1564475827917</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1564475827917</updated>
+    </task>
+    <task id="LOCAL-00019" summary="20190730">
+      <created>1564476007241</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1564476007241</updated>
+    </task>
+    <task id="LOCAL-00020" summary="2019070807">
+      <created>1565160289159</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1565160289159</updated>
+    </task>
+    <task id="LOCAL-00021" summary="2019070807">
+      <created>1565160306627</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1565160306627</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TodoView">
@@ -646,12 +744,38 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="0" sideWeight="0.20032841" side_tool="true" visible="true" weight="0.23373677" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.2632375" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.7996716" visible="true" weight="0.23373677" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.28899837" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.37602627" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40558293" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.15763547" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.42857143" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32840723" />
+      <window_info anchor="bottom" id="Statistic" order="12" weight="0.32840723" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.4989339" weight="0.32019705" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="6" side_tool="true" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.2632375" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.3448276" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40558293" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -660,16 +784,16 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32840723" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.42857143" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" weight="0.17935702" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="bottom" id="Statistic" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" weight="0.32019705" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32840723" />
+      <window_info anchor="bottom" id="Statistic" order="13" weight="0.32840723" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="right" id="Database" order="5" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -712,178 +836,13 @@
     <MESSAGE value="20190515" />
     <MESSAGE value="20190517" />
     <MESSAGE value="20190718" />
-    <option name="LAST_COMMIT_MESSAGE" value="20190718" />
+    <MESSAGE value="20190726" />
+    <MESSAGE value="20190723" />
+    <MESSAGE value="20190730" />
+    <MESSAGE value="2019070807" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019070807" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basics/point/listnodetest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeekTime/leedcodeSolutions/66.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/point/nice_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeekTime/leedcodeSolutions/14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/sql/联合主键和复合主键.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeekTime/leedcodeSolutions/13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/point/Xml解析.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/liaoxuefeng/dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/Ninty-oneSuggest/8.assert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeekTime/leedcodeSolutions/19.remove Nth node from end of list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/point/class中的object.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python36/Lib/copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4830">
-          <caret line="163" column="28" selection-start-line="163" selection-start-column="28" selection-end-line="163" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/point/作用域.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeekTime/leedcodeSolutions/141.link_list_cycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeekTime/leedcodeSolutions/876.middleOfthelinkedlist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeekTime/leedcodeSolutions/LinkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/point/ListNode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interview_python/4.打乱一个排好序的list对象alist？" />
-    <entry file="file://$PROJECT_DIR$/basics/automate/copyAndDeepcopy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/automate/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/liaoxuefeng/匿名函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeekTime/DataStructures/复杂度分析（上）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/point/python _、__、__xx__之间的差别.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeekTime/leedcodeSolutions/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/automate/Untitled.ipynb" />
-    <entry file="file://$PROJECT_DIR$/GeekTime/DataStructures/array(数组)为什么很多编程语言中数组都从0开始编号.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/point/算术运算符.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basics/liaoxuefeng/递归函数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -902,13 +861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1184660488/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="3650" column="8" selection-start-line="3650" selection-start-column="8" selection-end-line="3650" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -971,50 +923,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/data/genres.list">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="-5850" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/data/ratings.list.gz">
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/data/ratings.list.gz">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/1.3downloadingPreparedData.py">
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/1.3downloadingPreparedData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-235" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/data/ratings.list">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="-2160">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/data/imdb_dataset.csv">
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/data/imdb_dataset.csv">
       <provider selected="true" editor-type-id="LargeFileEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/data/kaggle_dataset.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/1.1DownloadDataset.py">
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/1.1DownloadDataset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/extractingTheInformation.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/1.2downloadingTextData.py">
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/1.2downloadingTextData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-90" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/data/ratings.list">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="330">
+          <caret line="37" column="50" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/automate/copyAndDeepcopy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basics/liaoxuefeng/文件读写.py">
@@ -1024,10 +968,180 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/2.1DataProfilingCleaning.py">
+    <entry file="file://$PROJECT_DIR$/fun/OneHundredUniversities/UniversitiesMysql" />
+    <entry file="file://C:/Python36/Lib/site-packages/bs4/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        <state relative-caret-position="2257">
+          <caret line="245" selection-start-line="245" selection-end-line="245" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices/33.QuantitativeTrading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/point/isinstance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fun/OneHundredUniversities/UniversitiesMysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="44" column="8" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HowMuchCanYouLearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="74" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fun/5000movieDataset/DataAcquisition/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/basics/point/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/liaoxuefeng/dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/point/ListNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/555.py" />
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/Bgad.py" />
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/asdf.py" />
+    <entry file="file://$PROJECT_DIR$/basics/numpy/Untitled.ipynb" />
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/data/genres.list">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-3296">
+          <caret line="261" lean-forward="true" selection-start-line="261" selection-end-line="261" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/data/kaggle_dataset.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="345" selection-start-column="339" selection-end-column="345" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/point/listnodetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/point/作用域.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/2.0DataProfilingCleaning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1184660488/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="4751" column="8" selection-start-line="4751" selection-start-column="8" selection-end-line="4751" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/numpy/shape.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/numpy/.ipynb_checkpoints/shape-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/point/大小写.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/point/.ipynb_checkpoints/大小写-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/point/正则表达.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/extractingTheInformation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding>
+            <element signature="e#95#104#0" expanded="true" />
+            <marker date="1565163191339" expanded="true" signature="145:146" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/3.1DataProfiling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="54" />
+          <folding>
+            <element signature="e#96#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/nomalizingTheText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1565168420246" expanded="true" signature="209:214" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/interview">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
