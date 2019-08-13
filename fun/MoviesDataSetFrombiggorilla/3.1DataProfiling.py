@@ -11,6 +11,7 @@ genres_data = extractingTheInformation.genres_data()
 # print(type(genres_data)) <class 'pandas.core.frame.DataFrame'>
 ratings_data = extractingTheInformation.ratings_data()
 kaggle_data = pd.read_csv('./data/kaggle_dataset.csv')
+# shape[第一维度的长度，就是有多少条信息]
 print('Number of movies in kaggle_data:{}'.format(kaggle_data.shape[0]))
 print('number of movies in genres_data:{}'.format(genres_data.shape[0]))
 print('number of movies in retings_data:{}'.format(ratings_data.shape[0]))

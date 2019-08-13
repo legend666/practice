@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="660616a8-0d3b-4f65-91f2-e5b5d01e4b56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basics/interview" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZenOfPython.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/extractingTheInformation.py" beforeDir="false" afterPath="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/extractingTheInformation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HowMuchCanYouLearn.py" beforeDir="false" afterPath="$PROJECT_DIR$/HowMuchCanYouLearn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/numpy/.ipynb_checkpoints/shape-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/basics/numpy/.ipynb_checkpoints/shape-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/3.1DataProfiling.py" beforeDir="false" afterPath="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/3.1DataProfiling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/nomalizingTheText.py" beforeDir="false" afterPath="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/nomalizingTheText.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +129,7 @@
     <session id="690612119">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
@@ -136,7 +139,8 @@
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="4" />
           <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="2" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.38" value="2" />
           <entry key="project.open.time.44" value="1" />
@@ -146,7 +150,7 @@
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.70" value="1" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -156,19 +160,20 @@
           <entry key="csv" value="4" />
           <entry key="gz" value="1" />
           <entry key="interview" value="1" />
-          <entry key="ipynb" value="10" />
+          <entry key="ipynb" value="11" />
           <entry key="list" value="8" />
           <entry key="pstat" value="3" />
-          <entry key="py" value="92" />
+          <entry key="py" value="96" />
           <entry key="打乱一个排好序的list对象alist？" value="1" />
+          <entry key="面试题1" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="10" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="IPNB" value="11" />
+          <entry key="PLAIN_TEXT" value="15" />
           <entry key="Profiler Session" value="3" />
-          <entry key="Python" value="95" />
+          <entry key="Python" value="99" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -176,39 +181,26 @@
           <entry key="Python Console" value="16" />
           <entry key="dummy" value="48" />
           <entry key="ipynb" value="1" />
-          <entry key="py" value="11228" />
-          <entry key="txt" value="75" />
+          <entry key="py" value="12722" />
+          <entry key="txt" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IPNB" value="1" />
-          <entry key="PLAIN_TEXT" value="123" />
-          <entry key="Python" value="11244" />
+          <entry key="PLAIN_TEXT" value="127" />
+          <entry key="Python" value="12738" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/extractingTheInformation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-              <folding>
-                <element signature="e#95#104#0" expanded="true" />
-                <marker date="1565163191339" expanded="true" signature="145:146" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/3.1DataProfiling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="54" />
+            <state relative-caret-position="319">
+              <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
               <folding>
                 <element signature="e#96#115#0" expanded="true" />
               </folding>
@@ -219,20 +211,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/nomalizingTheText.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="319">
+              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
               <folding>
-                <marker date="1565168420246" expanded="true" signature="209:214" ph="..." />
+                <element signature="e#94#162#0" expanded="true" />
+                <marker date="1565678229412" expanded="true" signature="464:469" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basics/interview">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -260,6 +244,8 @@
       <find>movie_title</find>
       <find>title_</find>
       <find>矩阵</find>
+      <find>shape</find>
+      <find>duplicated</find>
     </findStrings>
   </component>
   <component name="Git.Rebase.Settings">
@@ -275,9 +261,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basics/DynamicProgarmming(dp).py" />
-        <option value="$PROJECT_DIR$/liaoxuefeng/文件读写.py" />
-        <option value="$PROJECT_DIR$/liaoxuefeng/dictionary.py" />
         <option value="$PROJECT_DIR$/leedcodeSolutions/141.link_list_cycle.py" />
         <option value="$PROJECT_DIR$/nintyone/8.assert.py" />
         <option value="$PROJECT_DIR$/liaoxuefeng/debugging.py" />
@@ -304,7 +287,6 @@
         <option value="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices/24.PythonGC(GarbageCollection).py" />
         <option value="$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/DownloadDataset.py" />
         <option value="$PROJECT_DIR$/fun/5000movieDataset/DataAcquistion/2.1DataProfilingCleaning.py" />
-        <option value="$PROJECT_DIR$/HowMuchCanYouLearn.py" />
         <option value="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices/33.QuantitativeTrading.ipynb" />
         <option value="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices/33.QuantitativeTrading.py" />
         <option value="$PROJECT_DIR$/basics/point/isinstance.py" />
@@ -321,11 +303,15 @@
         <option value="$PROJECT_DIR$/basics/numpy/Untitled.ipynb" />
         <option value="$PROJECT_DIR$/basics/numpy/shape.ipynb" />
         <option value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/2.0DataProfilingCleaning.py" />
-        <option value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/3.1DataProfiling.py" />
         <option value="$PROJECT_DIR$/basics/point/正则表达.py" />
         <option value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/extractingTheInformation.py" />
-        <option value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/nomalizingTheText.py" />
         <option value="$PROJECT_DIR$/basics/interview" />
+        <option value="$PROJECT_DIR$/basics/面试题1" />
+        <option value="$PROJECT_DIR$/basics/numpy/.ipynb_checkpoints/shape-checkpoint.ipynb" />
+        <option value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/3.1DataProfiling.py" />
+        <option value="$PROJECT_DIR$/ZenOfPython.py" />
+        <option value="$PROJECT_DIR$/HowMuchCanYouLearn.py" />
+        <option value="$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/nomalizingTheText.py" />
       </list>
     </option>
   </component>
@@ -336,10 +322,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-359" />
-    <option name="y" value="207" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -420,29 +404,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3.1DataProfiling (1)">
-    <configuration name="33.QuantitativeTrading" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\legend_personal\practice\GeekTime\PythonCoreTechnologiesAndPractices\33.QuantitativeTrading.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ZenOfPython">
     <configuration name="3.1DataProfiling (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -509,6 +471,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ZenOfPython" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZenOfPython.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -554,19 +535,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.33.QuantitativeTrading" />
       <item itemvalue="Python.UniversitiesMysql" />
       <item itemvalue="Python.isinstance" />
       <item itemvalue="Python.3.1DataProfiling" />
       <item itemvalue="Python.3.1DataProfiling (1)" />
+      <item itemvalue="Python.ZenOfPython" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ZenOfPython" />
         <item itemvalue="Python.3.1DataProfiling (1)" />
         <item itemvalue="Python.3.1DataProfiling" />
         <item itemvalue="Python.UniversitiesMysql" />
         <item itemvalue="Python.isinstance" />
-        <item itemvalue="Python.33.QuantitativeTrading" />
       </list>
     </recent_temporary>
   </component>
@@ -728,7 +709,21 @@
       <option name="project" value="LOCAL" />
       <updated>1565160306627</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2019070808">
+      <created>1565254865700</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1565254865701</updated>
+    </task>
+    <task id="LOCAL-00023" summary="面试题">
+      <created>1565341691949</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1565341691949</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TodoView">
@@ -742,11 +737,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Structure" order="0" sideWeight="0.20032841" side_tool="true" visible="true" weight="0.23373677" />
+      <window_info id="Structure" order="0" sideWeight="0.20689656" side_tool="true" weight="0.24130106" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.7996716" visible="true" weight="0.23373677" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.79310346" visible="true" weight="0.24130106" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.37602627" />
@@ -755,10 +749,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.15763547" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32676518" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.42857143" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32840723" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.3596059" />
       <window_info anchor="bottom" id="Statistic" order="12" weight="0.32840723" />
       <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.4989339" weight="0.32019705" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
@@ -840,30 +834,11 @@
     <MESSAGE value="20190723" />
     <MESSAGE value="20190730" />
     <MESSAGE value="2019070807" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019070807" />
+    <MESSAGE value="2019070808" />
+    <MESSAGE value="面试题" />
+    <option name="LAST_COMMIT_MESSAGE" value="面试题" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basics/liaoxuefeng/递归函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/github_pythonInterview/4.打乱一个排好序的list对象alist？.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeekTime/PythonCoreTechnologiesAndPractices/3.listAndTuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basics/ClassicTopic/DynamicProgarmming(dp).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -947,12 +922,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/data/ratings.list">
-      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="330">
           <caret line="37" column="50" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="50" />
         </state>
       </provider>
+      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/basics/automate/copyAndDeepcopy.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -994,13 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="44" column="8" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HowMuchCanYouLearn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="74" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="74" />
         </state>
       </provider>
     </entry>
@@ -1079,13 +1047,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basics/numpy/.ipynb_checkpoints/shape-checkpoint.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basics/point/大小写.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -1107,10 +1068,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/basics/numpy/.ipynb_checkpoints/shape-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZenOfPython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/interview">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="939">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics/面试题1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-886">
+          <caret line="4638" column="8" selection-start-line="4638" selection-start-column="8" selection-end-line="4638" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HowMuchCanYouLearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/extractingTheInformation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        <state relative-caret-position="155">
+          <caret line="31" column="69" lean-forward="true" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
           <folding>
             <element signature="e#95#104#0" expanded="true" />
             <marker date="1565163191339" expanded="true" signature="145:146" ph="..." />
@@ -1118,30 +1121,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/nomalizingTheText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="e#94#162#0" expanded="true" />
+            <marker date="1565678229412" expanded="true" signature="464:469" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/3.1DataProfiling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="54" />
+        <state relative-caret-position="319">
+          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
           <folding>
             <element signature="e#96#115#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fun/MoviesDataSetFrombiggorilla/nomalizingTheText.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <marker date="1565168420246" expanded="true" signature="209:214" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics/interview">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
