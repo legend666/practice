@@ -23,7 +23,7 @@ def file_time(file_name, time_att):
 
 
 if __name__ == "__main__":
-    path = 'C:\\Users\\TaijiAudit\\Desktop\\Camera'
+    path = r'G:\a7m2\20171120-20190724\100ANV01'
     dir = os.listdir(path)
     # os.getcwd()返回当前进程的工作目录
     # 切换到path目录
